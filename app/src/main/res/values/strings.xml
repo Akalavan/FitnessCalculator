@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fitness</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="eat">Питание</string>
+    <string name="statistics">Статистика</string>
+    <string name="metering">Замеры</string>
+    <string name="protein">Белки</string>
+    <string name="carbohydrate">Углеводы</string>
+    <string name="fat">Жиры</string>
+    <string name="calorie">Ккал</string>
+    <string name="water">Вода</string>
+    <string name="target">Задать новую цель</string>
+    <string name="weight">Указать текущий вес</string>
+    <string name="reportForEat">Отчёт по еде</string>
+    <string name="reportForTraining">Отчёт по тренировкам</string>
+    <string name="training">Тренировки</string>
+    <string name="eatingList">Список еды</string>
+    <string name="help">help/справка</string>
+
+    <string-array name="active">
+        <item>Активная</item>
+        <item>Средняя</item>
+        <item>Малая</item>
+    </string-array>
+
+    <string-array name="selectAction">
+        <item>Набор</item>
+        <item>Поддержание</item>
+        <item>Похудение</item>
+    </string-array>
+
+    <string-array name="selectMonth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+</resources>
